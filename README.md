@@ -2,9 +2,12 @@
 
 DXF generator for sheet metal components - Free CAD tool - Excel to Dxf
 [⬇️ Download PW_Vector.exe](https://github.com/richard4leprt/PW_Vector/releases/latest/download/PW_Vector.exe)
+
 📄 **Documentation:**
+
 - [Polish Manual (PDF)](https://github.com/richard4leprt/PW_Vector/releases/latest/download/PW_Vector_Pomoc_PL.pdf)
 - [English Manual (PDF)](https://github.com/richard4leprt/PW_Vector/releases/latest/download/PW_Vector_Help_EN.pdf)
+
 Version: 1.05
 Author: Pawel Wojcik
 Email: p.wojcik.cnc@gmail.com
